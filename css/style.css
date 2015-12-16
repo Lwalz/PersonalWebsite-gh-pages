@@ -1,0 +1,123 @@
+@charset "utf-8";
+#banner {
+	padding: 3em;
+	width: 100%;
+}
+.nav.nav-tabs {
+	width: 100%;
+}
+.nav {
+	list-style: none;
+}
+#mask {
+	width: 70%;
+	margin-left: 16.5%;
+}
+p {
+	text-align: center;
+}
+li {
+	width: 25%;
+	background-color: #a0a0a0;
+}
+ul {
+	width: 100%;
+}
+.container {
+	width: 100%;
+}
+.col-md-6.col-md-offset-3 {
+	padding: 0;
+}
+.img-responsive {
+	width: 100%;
+}
+.item.active {
+}
+.center-block {
+	width: 75%;
+}
+h1 {
+	text-align: center;
+
+}
+.jumbotron {
+	/* [disabled]display: block; */
+}
+br {
+	height: 5em;
+	border: 0;
+	background-color: red;
+}
+.nuggets {
+	width: 16%;
+}
+img.nuggets {
+	width: 100%;
+}
+a {
+}
+a.img-rounded {
+	border-spacing: 2em;
+}
+li.hvr-grow {
+	background-color: none;
+}
+object {
+	height: 100%;
+	zoom: 100%;
+}
+.viewContainer {
+	height: 100%;
+}
+#viewerContainer {
+	height: 100%;
+}
+frame {
+	width: 100%;
+}
+iframe {
+	padding-left: 0;
+	width: 100%;
+}
+body {
+	width: 100%;
+}
+video {
+	width: 100%;
+}
+iframe.vidsize {
+	height: 100%;
+}
+
+
+
+@media (max-width: 992px){
+div#viewer.pdfviewer {
+	height: 100%;
+}
+.pdfviewer {
+	height: 100%;
+}
+#banner {
+	width: 100%;
+	float: left;
+}
+#viewercontainer {
+	height: 100%;
+}
+div#viewerContainer {
+	height: 100%;
+}
+.img-responsive {
+	width: 100%;
+	float: left;
+}
+.nuggets {
+	width: 50%;
+}
+}
+.dropdown-togg {
+}
+.vidsize {
+}
